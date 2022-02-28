@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/action.png</file>
+        <file>image/caret-down.png</file>
+        <file>image/caret-left.png</file>
+        <file>image/caret-right.png</file>
+        <file>image/caret-up.png</file>
+        <file>image/Disconnect.png</file>
+        <file>image/ic_connect.png</file>
+        <file>image/robot.png</file>
+        <file>image/settings.png</file>
+        <file>image/robot_icon.png</file>
+        <file>image/logo.png</file>
+    </qresource>
+</RCC>
